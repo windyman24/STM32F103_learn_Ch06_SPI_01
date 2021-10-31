@@ -1,0 +1,10 @@
+main.c:74:6:MAX7219_CS	0	static
+main.c:78:6:MAX7219_write	16	static
+main.c:88:9:booltoByte	0	static
+main.c:97:6:SetPoint	0	static
+main.c:101:6:draw	8	static
+main.c:112:6:MAX7219clear	8	static
+main.c:123:6:ShowNum	8	static
+main.c:218:6:SystemClock_Config	72	static,ignoring_inline_asm
+main.c:154:5:main	48	static,ignoring_inline_asm
+main.c:324:6:Error_Handler	0	static,ignoring_inline_asm
